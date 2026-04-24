@@ -1,0 +1,7 @@
+Technical Business Analyst
+Acted as a bridge between business stakeholders, product owners, and development teams to deliver a multi‑level approval workflow application.
+Collaborated with Product Owners to define Gherkin‑based user stories and acceptance criteria aligned with business approval processes.
+Contributed to the design and development of backend REST APIs, including request/response definitions and validation rules.
+Led data mapping and integration between internal databases and a third‑party Pega application using RESTful services.
+Enabled role‑based access and multi‑level approval logic, ensuring reports moved seamlessly across approval stages.
+Supported end‑to‑end testing and validated functionality against business requirements and workflows.
